@@ -1,0 +1,8 @@
+requests
+spacy
+textblob
+bs4
+matplotlib
+ipykernel
+numpy
+nltk
